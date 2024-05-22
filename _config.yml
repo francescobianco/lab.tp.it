@@ -1,0 +1,7 @@
+title: LAB.TP.IT
+remote_theme: francescobianco/jekyll-html-pages@main
+
+paginate: 5
+
+exclude:
+  - README.md
