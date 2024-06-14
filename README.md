@@ -1,3 +1,3 @@
-# 🧬 LAB.TP.IT
+# 🏛️ lab.tp.it
 
-> Laboratorio indipendente di ricerca scientifica per la provincia di Trapani
+> Laboratorio di ricerca scientifica indipendente per la provincia di Trapani
